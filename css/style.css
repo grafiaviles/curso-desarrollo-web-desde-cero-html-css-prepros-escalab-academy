@@ -22,7 +22,10 @@ body {
     align-items: center;
     justify-content: center;
     min-height: 100vh;
-    /* scroll-behaviour: smooth; */
+}
+
+.scroll-container {
+    scroll-behaviour: smooth;
 }
 
 header,
